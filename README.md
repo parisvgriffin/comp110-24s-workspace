@@ -35,4 +35,3 @@ Your work in the course will be completed in this workspace. Instructions for th
 3. Begin typing in `origin` and press `Enter` once it is the first option.
 4. Press enter with `origin/main` as the first option.
 5. This downloads the latest course materials! It will succeed silently, so if nothing appears to happen it worked (and any new files will be available in the file explorer). If there was an error, you would see an error message pop up.
-
